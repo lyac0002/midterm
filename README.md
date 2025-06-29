@@ -9,6 +9,6 @@ It follows the exact layout of the provided mockup and includes:
 - A fully labeled contact form
 - A footer with copyright
 
-The page is built using **semantic HTML5** and **CSS3**, with fully organized folders (`css/`, `images/`) and a validated codebase.
+The page is built using **semantic HTML** and **CSS**, with fully organized folders (`css/`, `images/`) and a validated codebase.
 
 Live site: [https://lyac0002.github.io/midterm/]
